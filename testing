@@ -1,1 +1,1 @@
-dvfjdjfdfdsfdvknssdfsjddsfdsfjfgfvnmf
+curl -i -u admin:amin http://localhost:5672/api/queues
