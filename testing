@@ -1,2 +1,7 @@
-curl -i -u admin:amin http://localhost:5672/api/queues/
+cssfhjurl -i -u admin:amin http://localhost:5672/api/queues/
+cssfhjurl -i -u admin:amin http://localhost:5672/api/queues/
 curl -i -u admin:admin123 http://localhost:15672/api/queues/
+curl -i -u admin:admin123 http://localhost:15672/api/queues/
+
+AWS_ACCESS_KEY : sdhfjfscvmgvtslfdvfdsjafsgd
+AWS_ACCESS_KEY : sdhfjfscvmgvtslfdvfdsjafsgd
